@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    font-size: 8.5px;
+    background-color: #b06d6d;
+    font-family: 'Arial', sans-serif;
+    flex-direction: column;
+  }
+    .container {
+    text-align: center;
+    margin:"top";
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #2c2c2c;
+  }
+  
+    .button {
+    margin-bottom: 0px;
+  }
+
+  .button {
+    background-color: #b06d6d;
+    color: black;
+    border-color: black;
+    margin-top: 5px;
+    border-radius: 1.5em;
+  }
